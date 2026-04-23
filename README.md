@@ -35,3 +35,6 @@ The only thing that prevents us from using iOS 15 as minimal deployment target i
 - Specify, by toggling, whether You want Your audio and video to be enabled and select `Start a call` button.
 
 App should start connecting to the session. Depending on whether participant from Video API playground started the stream, you will see Your video stream(or a placeholder in case of video is disabled) and(optionally) Your participant stream.
+
+## Time spent to implement the project
+Approximately 5-6 hours across different days
